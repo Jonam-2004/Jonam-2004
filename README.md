@@ -9,11 +9,10 @@ I'm Manoj, a passionate data scientist Engineer specializing in Big Data and Mac
 - **Tools**: Kafka, OpenCV, Wav2Vec, Whisper
 - **Databases**: MySQL, MongoDB
 
-## Current Projects
-- **Pronunciation Prediction Model**: Using the Whisper model to analyze speech for pronunciation accuracy.
-- **Sarcastic Review Prediction**: Machine learning based model to predict the sarcastic review.
-
 ## Achievements
+
+- Built a Pronunciation Prediction Model Using the Whisper model to analyze speech for pronunciation accuracy.
+- Developed a Sarcastic Review Prediction Machine learning based model to predict the sarcastic review.
 - Built a face recognition attendance system deployed on GitHub.
 - Successfully implemented QR code generation and scanning using Flask.
 
@@ -22,8 +21,6 @@ I'm Manoj, a passionate data scientist Engineer specializing in Big Data and Mac
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/manoj-s-4b8605280/)
 - GitHub: [GitHub Profile](https://github.com/Jonam-2004)
 
-## Fun Fact
-When I'm not coding, you'll find me exploring new cuisines and perfecting my recipes!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
