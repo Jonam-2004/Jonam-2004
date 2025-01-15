@@ -25,6 +25,14 @@ I'm Manoj, a passionate data scientist Engineer specializing in Big Data and Mac
 ## Fun Fact
 When I'm not coding, you'll find me exploring new cuisines and perfecting my recipes!
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jonam-2004&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jonam-2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## Github Contribution Stats
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Jonam-2004)
 <!--
