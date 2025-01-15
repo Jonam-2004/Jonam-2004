@@ -25,6 +25,8 @@ I'm Manoj, a passionate data scientist Engineer specializing in Big Data and Mac
 ## Fun Fact
 When I'm not coding, you'll find me exploring new cuisines and perfecting my recipes!
 
+##Github Contribution Stats
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Jonam-2004)
 <!--
 **Jonam-2004/Jonam-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
