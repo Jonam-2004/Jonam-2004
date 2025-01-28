@@ -128,11 +128,11 @@ me.say_hi()
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jonam-2004/Jonam-2004/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
+-->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
--->
 <!-- Quote -->
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=react&layout=socrates&font=Architect&animation=grow_out_in&quoteCategory=programming" width="100%"/>
