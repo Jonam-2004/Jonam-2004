@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manoj%20S&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=6,11,20&height=200&section=header&text=Manoj%20S&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Jonam-2004&style=for-the-badge&color=3b82f6"/>
