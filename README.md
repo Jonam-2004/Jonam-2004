@@ -121,13 +121,12 @@ me.say_hi()
 
 [![Voice Based Pronunciation Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Jonam-2004&repo=voice-based-pronunciation-prediction&theme=tokyonight&hide_border=true)](https://github.com/Jonam-2004/voice-based-pronunciation-prediction)
 
-[![Safety Management](https://github-readme-stats.vercel.app/api/pin/?username=Jonam-2004&repo=Safety-Management-In-Construction-By-Semantic-Matching-Using-YOLO-ASCA&theme=tokyonight&hide_border=true)](https://github.com/Mohamedaslam227/Safety-Management-In-Construction-By-Semantic-Matching-Using-YOLO-ASCA)
-
+[![Safety Management](https://github-readme-stats.vercel.app/api/pin/?username=Jonam-2004&repo=Sarcastic_Review_Prediction&theme=tokyonight&hide_border=true)](https://github.com/Jonam-2004/Sarcastic_Review_Prediction)
 </div>
 
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mohamedaslam227/Jonam-2004/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Jonam-2004/Jonam-2004/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <div align="center">
