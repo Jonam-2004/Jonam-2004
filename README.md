@@ -9,7 +9,7 @@
 
   <!-- Social Badges -->
   <p>
-    <a href="https://linkedin.com/in/manoj-s-4b8605280/"><img src="https://img.shields.io/badge/-manoj-s-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
+    <a href="https://linkedin.com/in/manoj-s-4b8605280/"><img src="https://img.shields.io/badge/-manojs-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
     <a href="mailto:51manoj2004@gmail.com"><img src="https://img.shields.io/badge/-51manoj2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
     <a href="https://instagram.com/evil.dark_00"><img src="https://img.shields.io/badge/-evil.dark_00-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
   </p>
