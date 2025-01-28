@@ -9,14 +9,14 @@
 
   <!-- Social Badges -->
   <p>
-    <a href="https://linkedin.com/in/manoj-s-4b8605280/"><img src="https://img.shields.io/badge/-manoj%20s-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
+    <a href="https://linkedin.com/in/manoj-s-4b8605280/"><img src="https://img.shields.io/badge/-Manoj%20S-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
     <a href="mailto:51manoj2004@gmail.com"><img src="https://img.shields.io/badge/-51manoj2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
     <a href="https://instagram.com/evil.dark_00"><img src="https://img.shields.io/badge/-evil.dark_00-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
   </p>
 </div>
 
 <!-- Introduction with Code Animation -->
-<img align="right" alt="Coding Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding Animation" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 ## 👨‍💻 About Me
 
