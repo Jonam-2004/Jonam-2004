@@ -101,7 +101,7 @@ me.say_hi()
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonam-2004&theme=tokyonight" height="180"/>
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=pie)
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonam-2004&theme=tokyo-night&area=true&hide_border=true" width="100%">
