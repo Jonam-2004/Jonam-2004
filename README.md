@@ -97,7 +97,9 @@ me.say_hi()
 
 <!-- GitHub Stats Cards -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonam-2004&theme=tokyonight" height="220" Width="60%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonam-2004&theme=tokyonight" height="220" Width="120%"/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonam-2004&theme=tokyonight" height="180"/>
 </div>
 
