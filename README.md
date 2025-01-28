@@ -92,6 +92,7 @@ me.say_hi()
 </div>
 
 ## 📊 GitHub Stats
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- GitHub Stats Cards -->
 <div align="center">
@@ -101,7 +102,6 @@ me.say_hi()
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonam-2004&theme=tokyonight" height="180"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonam-2004&theme=tokyonight&utcOffset=8" height="180"/>
 </div>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 <!-- Activity Graph -->
