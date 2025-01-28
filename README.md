@@ -135,7 +135,7 @@ me.say_hi()
 
 <!-- Quote -->
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates&font=Architect&animation=grow_out_in&quoteCategory=programming" width="4800"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=react&layout=socrates&font=Architect&animation=grow_out_in&quoteCategory=programming" width="100%"/>
 </div>
 
 <div align="center">
