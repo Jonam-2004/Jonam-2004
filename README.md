@@ -100,7 +100,7 @@ me.say_hi()
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jonam-2004&theme=radical&hide_border=true)<br/>
 
 <!-- Activity Graph -->
