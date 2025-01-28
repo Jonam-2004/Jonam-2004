@@ -92,16 +92,15 @@ me.say_hi()
 </div>
 
 ## 📊 GitHub Stats
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jonam-2004&theme=radical&hide_border=true)<br/>
+
 <!-- GitHub Stats Cards -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonam-2004&theme=tokyonight" height="180"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonam-2004&theme=tokyonight" height="180"/>
 </div>
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Jonam-2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonam-2004&theme=tokyo-night&area=true&hide_border=true" width="100%">
 
